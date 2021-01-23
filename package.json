@@ -1,0 +1,26 @@
+{
+  "name": "perusable-course",
+  "version": "1.0.0",
+  "description": "Perusable web app course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.devops.eab.com:ParentJ/perusable-course.git"
+  },
+  "keywords": [
+    "django",
+    "docker",
+    "react",
+    "nginx",
+    "postgres",
+    "web",
+    "app",
+    "course",
+    "python"
+  ],
+  "author": "Jason Parent <jparent@eab.com>",
+  "license": "ISC"
+}
